@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL.
 Gt has a mutable idex called stage.
 Git tracks changes of files.
 Create new branch dev.
+Create new branch feature1.
